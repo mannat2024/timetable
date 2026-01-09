@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    font-size: 14px;
+}
+
+th {
+    background-color: #2c7be5;
+    color: white;
+}
+
+.lunch {
+    background-color: #e6e6e6;
+    font-weight: bold;
+}
+
+.free {
+    background-color: #ccffcc;
+}
+
+/* Course Colors */
+.c205 { background-color: #ffb3b3; }
+.c204 { background-color: #b3d9ff; }
+.c203 { background-color: #ffccff; }
+.c304 { background-color: #ffd9b3; }
+.bece { background-color: #b3ffcc; }
+.bmat { background-color: #e6ccff; }
+.bsts { background-color: #ffffb3; }
